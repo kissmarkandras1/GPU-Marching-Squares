@@ -1,5 +1,8 @@
 # Marching Squares (OpenCL/OpenGL Interop)
 
+<img width="3984" height="3984" alt="output" src="https://github.com/user-attachments/assets/61fa9829-7fe8-414c-aef5-f24a6993821b" />
+
+
 A C++ demo that computes [marching squares](https://en.wikipedia.org/wiki/Marching_squares) isolines from elevation data on the GPU with OpenCL, and renders the result directly into an OpenGL texture using CL/GL interop.
 
 Originally built as an assignment for a university GPU programming course, cleaned up here as a standalone, self-contained project.
